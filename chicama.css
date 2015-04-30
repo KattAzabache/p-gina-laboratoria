@@ -58,20 +58,16 @@ li{
 }
 .container2{
 	width: 100%;
-	height: 500px;
-	position: relative;
-	top: 0px;
 }
 li.tres{
 	float: left;
 	width: 414px;
 	padding: 9px;
-	height: 374px;
 }
 .nosotros{
 	list-style: none;
-	padding: 50px 35px;
-	width: 96%;
+	padding: 10% 0;
+	width: 100%;
 	height: 399px;
 	margin: 0;
 }
@@ -110,7 +106,6 @@ div.fotitos{
 	padding-bottom: 5px;
 }
 .container3{
-	width: 100%;
 	height: 60px;
 	background-color: #5D5D5D;
 	position: relative;
